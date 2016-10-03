@@ -1,0 +1,4 @@
+/Users/anon/src/yoshuawuyts/templates/project/_gitignore
+target
+Cargo.lock
+target
